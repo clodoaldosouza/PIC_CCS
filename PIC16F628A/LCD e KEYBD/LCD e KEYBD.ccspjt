@@ -1,0 +1,55 @@
+[PROJECT]
+Target=LCD e KEYBD.hex
+Processor_Text=PIC16F628A
+CCSVerions=5.073
+Compiler=PCM
+CCSVersion=5.073
+[Target Data]
+FileList=LCD e KEYBD.c
+[Directories]
+Include=
+[C:\Temp\MCU\Projetos CCS\PIC16F628A\Forum002\LCD e KEYBD]
+Type=4
+[mru-list]
+1=LCD e KEYBD.c
+
+[ProjectLog]
+Days=2
+D1=07-10-2017
+D1_L=10
+D1_L1=[69868]Project Opened.
+D1_L2=[69870]Started Editing.
+D1_L3=[70355]Stopped Editing.
+D1_L4=[70901]Started Editing.
+D1_L5=[71428]Stopped Editing.
+D1_L6=[71635]Started Editing.
+D1_L7=[72043]Stopped Editing.
+D1_L8=[72181]Started Editing.
+D1_L9=[72619]Stopped Editing.
+TotalEdit=11
+TotalDebug=0
+D1_E=11
+D1_D=0
+D1_L10=[72771]Project Closed.
+D2=10-02-2022
+D2_L=2
+D2_L1=[66945]Project Opened.
+D2_L2=[66964]Project Closed.
+
+[Opened Files]
+1=LCD e KEYBD.c
+t1=10
+Count=2
+2=..\..\..\..\..\Program Files (x86)\PICC\Drivers\lcd.c
+t2=154
+[LCD e KEYBD.c]
+Type=4
+
+[defines]
+buildcount=9
+[Units]
+Count=1
+1=LCD e KEYBD (main)
+
+[fileformats]
+forcecoff=0
